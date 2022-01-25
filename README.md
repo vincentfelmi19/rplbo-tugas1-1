@@ -3,16 +3,11 @@ Tugas 1 RPL-BO UKDW
 
 Struktur folder:
 rplbo-tugas1 
-- Group A
-folder dan file-file class (nama A<nim>.java)
-- Group B
-folder dan file-file class (nama A<nim>.java)
-- Group C
-folder dan file-file class (nama A<nim>.java)
-- Group D
-folder dan file-file class (nama A<nim>.java)
-- Contoh
-folder dan file-file class (nama A<nim>.java)
+- Group A: folder dan file-file class (nama A<nim>.java)
+- Group B: folder dan file-file class (nama A<nim>.java)
+- Group C: folder dan file-file class (nama A<nim>.java)
+- Group D: folder dan file-file class (nama A<nim>.java)
+- Contoh: folder dan file-file class contoh
 
 KETERANGAN
 Mahasiswa Kelas A harus membuat folder dan file di dalam folder Group A
