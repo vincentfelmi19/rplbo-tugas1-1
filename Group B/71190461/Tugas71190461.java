@@ -10,6 +10,7 @@ public class Tugas71190461 {
         } 
 
     System.out.println(sum); 
-
+    System.out.println("TERIMA KASIH");
+    System.out.println("71190461 Ben Hoffman Malau");   
     } 
 }
