@@ -13,7 +13,8 @@ public class Tugas171200535{
           }
 		
 		System.out.println(total);
-
+		System.out.println("TERIMA KASIH 71200535 Maximiliano Bagas");
 	}
+
 
 }
