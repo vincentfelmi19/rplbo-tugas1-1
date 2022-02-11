@@ -18,6 +18,7 @@ public class B71200577 {
 		    }
 
 		    System.out.println("3 DIGIT NIM : " + n + " TOTAL = " + tot + " " + txt);
+
 		    System.out.println("TERIMA KASIH");
 		    
 		  }
