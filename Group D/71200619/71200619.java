@@ -7,5 +7,6 @@ class sum {
             }
         System.out.println("Hasil Penjumlahan " + sum); 
         System.out.println("TERIMA KASIH, 71200619 UNTUNG MANGKUNEGARA");
+        System.out.println("TERIMA KASIH, 71200619 Uun");
         } 
 }
