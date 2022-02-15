@@ -8,5 +8,6 @@ public class 71200658 {
             nim -= 1;
         }
         System.out.println("Hasilnya adalah :" + n);
+	System.out.println("Terima Kasih 71200658 Putra Yehuda Ratu")
     }
 }
